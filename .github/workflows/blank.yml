@@ -23,4 +23,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: run
-        run: echo "I am in the main branch"
+        run: echo "I am in the develop branch"
